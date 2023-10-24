@@ -1,6 +1,5 @@
-
 // Constants
-const apiKey = '889a504cec721d53cc4810b44c02441e';
+const apiKey = config.apiKey;
 const resultsPerPage = 10;
 let currentPage = 1;
 let currentQuery = '';
