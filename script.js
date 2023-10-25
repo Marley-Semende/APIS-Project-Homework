@@ -1,3 +1,4 @@
+'use strict'
 // Constants
 const apiKey = config.apiKey;
 const resultsPerPage = 10;
